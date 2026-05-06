@@ -26,7 +26,7 @@ pip install torch torchvision pillow pandas numpy
 
 ### Dataset
 
-Download the [CelebA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place it in a `celeba/` directory with the following structure:
+Download the [CelebA dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) and place it in a `celeba/` directory with the following structure:
 
 ```
 celeba/
