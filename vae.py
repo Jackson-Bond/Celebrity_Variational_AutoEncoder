@@ -1,8 +1,3 @@
-# Bond, Jackson
-# 1002_032_254
-# 2026_03_29
-# Assignment_04_03
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
