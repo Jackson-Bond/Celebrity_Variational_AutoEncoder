@@ -1,4 +1,4 @@
-# VAE CelebA — Assignment 04
+# VAE CelebA
 
 A Variational Autoencoder (VAE) trained on the CelebA face dataset, with an interactive GUI for exploring the latent space.
 
