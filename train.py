@@ -1,8 +1,3 @@
-# Bond, Jackson
-# 1002_032_254
-# 2026_03_29
-# Assignment_04_02
-
 from pathlib import Path
 import time
 import pandas as pd
