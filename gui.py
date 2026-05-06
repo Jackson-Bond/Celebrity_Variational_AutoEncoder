@@ -1,8 +1,3 @@
-# Bond, Jackson
-# 1002_032_254
-# 2026_03_29
-# Assignment_04_01
-
 import numpy as np
 import torch
 import tkinter as tk
